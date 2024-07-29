@@ -1,3 +1,3 @@
 @echo off
 
-start /MIN pythonw.exe "C:\Projects\main\en2ru.py"
+start /MIN pythonw.exe "PATH TO en2ru.py"
